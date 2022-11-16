@@ -1,0 +1,22 @@
+{
+  "name": "cypress02",
+  "version": "1.0.0",
+  "description": "Cypress API Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadzainuddin/cypress-api.git"
+  },
+  "author": "nzainuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadzainuddin/cypress-api/issues"
+  },
+  "homepage": "https://github.com/nadzainuddin/cypress-api#readme",
+  "devDependencies": {
+    "cypress": "^11.0.1"
+  }
+}
